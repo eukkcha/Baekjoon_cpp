@@ -1,12 +1,13 @@
-#include <iostream> 
+#include<iostream>
 
-using namespace std; 
+    using namespace std;
 
-int main() {
-    ios_base::sync_with_stdio(false); 
-    cin.tie(NULL); 
+int main()
+{
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
 
-    cout << "Hello World!\n"; 
+    cout << "Hello World!";
 
     return 0;
 }
